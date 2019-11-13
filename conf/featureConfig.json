@@ -1,0 +1,6 @@
+{  
+    	"name": "productConfig",
+    	"str_prop": ["product_name"],
+    	"value_prop": ["product_id","cat_id","brand_id"],
+    	"rank_feature": ["BM25","price","basket","pay_num","review","add_time"]
+}  
